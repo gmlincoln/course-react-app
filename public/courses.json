@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/FztcJpw/1.png",
+      "title": "Introduction to C Programming",
+      "short_description": "Learn the fundamentals of programming.",
+      "price": 49.99,
+      "credit_hour": 3
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/4RzkpX5/2.png",
+      "title": "Introduction to Algorithms",
+      "short_description": "Explore the fundamental algorithms that power modern computing.",
+      "price": 79.99,
+      "credit_hour": 4
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/f8Yjh74/3.png",
+      "title": "Introduction to C++ for DSA",
+      "short_description": "Master the fundamentals of C++ programming for Data Structure and Algorithms(DSA).",
+      "price": 99.99,
+      "credit_hour": 5
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/1zSBd15/4.png",
+      "title": "Basic Data Structures",
+      "short_description": "Explore fundamental data structures in computer science.",
+      "price": 69.99,
+      "credit_hour": 4
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/0GG1Kf1/5.png",
+      "title": "Introduction to OOP Python",
+      "short_description": "Explore the principles of OOP using Python in this introductory course.",
+      "price": 89.99,
+      "credit_hour": 5
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/r2tWngV/6.png",
+      "title": "Software Engineering",
+      "short_description": "Learn the principles and practices of software engineering.",
+      "price": 59.99,
+      "credit_hour": 3
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/VQF5kGw/7.png",
+      "title": "AWS, Cloud Computing",
+      "short_description": "Explore the world of cloud computing with Amazon Web Services (AWS).",
+      "price": 69.99,
+      "credit_hour": 4
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/g670cP6/8.png",
+      "title": "Database (MySQL)",
+      "short_description": "Learn the fundamentals of MySQL database management and administration.",
+      "price": 109.99,
+      "credit_hour": 6
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/V9pSQXQ/9.png",
+      "title": "Problem-Solving Part",
+      "short_description": "Enhance your critical thinking skills and tackle complex challenges effectively with this course.",
+      "price": 49.99,
+      "credit_hour": 3
+    }
+  ]
+  
