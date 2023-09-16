@@ -35,7 +35,7 @@ function App() {
         setAddCourses([...addCourses, course]);
       }
       else {
-        return toast('Your course hour cross the 20 credit!!')
+        return toast('You can not add more than 20 credit!')
       }
     }
   }
