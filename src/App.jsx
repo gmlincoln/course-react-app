@@ -8,7 +8,7 @@ import { toast } from 'react-toastify';
 
 function App() {
   const [addCourses, setAddCourses] = useState([]);
-  const [remainingHour, setRemainingHour] = useState(0);
+  const [remainingHour, setRemainingHour] = useState(20);
   const [totalHour, setTotalHour] = useState(0);
   const [coursePrice, setCoursePrice] = useState(0);
 
